@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @jasonogrady
-- 👀 I’m interested in security, robotics, and automation
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on technical writing
-- 📫 Reach me jason@ogrady.com
+- 💞️ I love technical writing
+- ⚡️ You might know me from PowerPage.org
+- 🧠 I’m interested in security, AI, ML, & DL
+- 📫 Contact me jason@ogrady.ai
+- 💼 linkedin.com/in/ogrady
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
