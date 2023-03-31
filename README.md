@@ -2,25 +2,27 @@ Hi, I’m Jason O'Grady 👋
 
 I love writing!
 
-I've written for internal, external and developer audiences:
+I've written technical communications for internal, external and developer audiences, at scale:
 - 💻 Technical writing: Google Analytics DevSite, Google Optimize DevSite
-- ⚡️ News and editorial: OG Blogger since '95 [https://www.powerpage.org]
+- 📰 News: CBS Interactive/ZDNet [https://www.zdnet.com/blog/apple]
+- ⚡️ Editorial: PowerPage [https://www.powerpage.org/] (OG Apple blog since 1995) 
 
-When I'm not writing, I love to learn about:
+Passionate about:
 - 🧠 AI, ML, & DL 
 - 🧮 Data science
 - 🔐 Cryptography
 
-When I'm not learning, I love camping and photography. 
-
-Some examples of my work:
-- ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
-- 🖼️ OGrady.ai [https://www.ogrady.ai/]
-- 💼 LinkedIn [https://linkedin.com/in/ogrady]
+Samples of my work:
 - ⚡️ PowerPage [https://www.powerpage.org/]
+- 💼 LinkedIn [https://linkedin.com/in/ogrady]
+- ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
-📫 Contact me by email: jason@ogrady.ai
-
+Contact me:
+🐦 [https://twitter.com/JasonOGrady]
+🐘 [https://mastodon.social/@jasonogrady]
+📸 [http://instagram.com/jasonogrady/]
+🖼️ [https://www.ogrady.ai/]
+📫 [mailto:jason@ogrady.ai]
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
