@@ -9,10 +9,10 @@ I've written technical communications for internal, external and developer audie
 - 📊 Google Analytics Developers [http://developer.google.com/analytics]
 - ✨ Google Optimize Developers [http://developer.google.com/optimize]
 - 📰 News: CBS Interactive/ZDNet [https://www.zdnet.com/blog/apple]
-- ⚡️ Editorial: PowerPage [https://www.powerpage.org/] (OG Apple blog since 1995) 
+- ⚡️ Editorial: PowerPage [https://www.powerpage.org/]
 
 Passionate about:
-- 🧠 AI, ML, & DL 
+- 🧠 AI, ML, & DL
 - 🧮 Data science
 - 🔐 Cryptography
 
