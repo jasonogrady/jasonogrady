@@ -3,9 +3,11 @@ Hi, I’m Jason O'Grady 👋
 I love writing!
 
 I've written technical communications for internal, external and developer audiences, at scale:
-- 💻 Technical writing: 
-- - Google Analytics Developers [http://developer.google.com/analytics]
-- - Google Optimize DevSite [http://developer.google.com/optimize]
+
+- 🛡 Security and Privacy standards, notifications [https://safety.google/security-privacy/]
+- 🪪 Identity and Access Management (IAM) [https://cloud.google.com/iam]
+- 📊 Google Analytics Developers [http://developer.google.com/analytics]
+- ✨ Google Optimize Developers [http://developer.google.com/optimize]
 - 📰 News: CBS Interactive/ZDNet [https://www.zdnet.com/blog/apple]
 - ⚡️ Editorial: PowerPage [https://www.powerpage.org/] (OG Apple blog since 1995) 
 
