@@ -3,7 +3,9 @@ Hi, I’m Jason O'Grady 👋
 I love writing!
 
 I've written technical communications for internal, external and developer audiences, at scale:
-- 💻 Technical writing: Google Analytics DevSite, Google Optimize DevSite
+- 💻 Technical writing: 
+- - Google Analytics Developers [http://developer.google.com/analytics]
+- - Google Optimize DevSite [http://developer.google.com/optimize]
 - 📰 News: CBS Interactive/ZDNet [https://www.zdnet.com/blog/apple]
 - ⚡️ Editorial: PowerPage [https://www.powerpage.org/] (OG Apple blog since 1995) 
 
@@ -18,11 +20,11 @@ Samples of my work:
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
 Contact me:
-🐦 [https://twitter.com/JasonOGrady]
-🐘 [https://mastodon.social/@jasonogrady]
-📸 [http://instagram.com/jasonogrady/]
-🖼️ [https://www.ogrady.ai/]
-📫 [mailto:jason@ogrady.ai]
+- 🐦 [https://twitter.com/JasonOGrady]
+- 🐘 [https://mastodon.social/@jasonogrady]
+- 📸 [http://instagram.com/jasonogrady/]
+- 🖼️ [https://www.ogrady.ai/]
+- 📫 [mailto:jason@ogrady.ai]
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
