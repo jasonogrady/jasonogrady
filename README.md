@@ -2,7 +2,7 @@ Hi, I’m Jason O'Grady 👋
 
 I'm a senior technical writer at Google in the bay area, and I love writing.
 
-I write technical communications for internal, external and developer audiences, at scale:
+I write technical communications for internal, external, and developer audiences, at scale:
 - 🛡 Security and Privacy standards, notifications [https://safety.google/security-privacy/]
 - 🪪 Identity and Access Management (IAM) [https://cloud.google.com/iam]
 - 📊 Google Analytics Developers [http://developer.google.com/analytics]
