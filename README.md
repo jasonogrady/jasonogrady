@@ -9,14 +9,14 @@ I've written for internal, external and developer audiences:
 When I'm not writing, I love to learn about:
 - 🧠 AI, ML, & DL 
 - 🧮 Data science
-– 🔐 Cryptography
+- 🔐 Cryptography
 
 When I'm not learning, I love camping and photography. 
 
 Some examples of my work:
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 - 🖼️ OGrady.ai [https://www.ogrady.ai/]
-- 💼 LinkedIn [linkedin.com/in/ogrady]
+- 💼 LinkedIn [https://linkedin.com/in/ogrady]
 - ⚡️ PowerPage [https://www.powerpage.org/]
 
 📫 Contact me by email: jason@ogrady.ai
