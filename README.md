@@ -13,8 +13,9 @@ When I'm not writing, I love to learn about:
 
 When I'm not learning, I love camping and photography. 
 
-Some of my work can be found on:
-– 🖼️ OGrady.ai [https://www.ogrady.ai/]
+Some examples of my work:
+- ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
+- 🖼️ OGrady.ai [https://www.ogrady.ai/]
 - 💼 LinkedIn [linkedin.com/in/ogrady]
 - ⚡️ PowerPage [https://www.powerpage.org/]
 
