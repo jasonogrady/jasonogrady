@@ -1,6 +1,6 @@
 Hi, I’m Jason O'Grady 👋 
 
-I'm a senior technical writer at Google in the bay area, and I love writing.
+I'm a senior technical writer based in the bay area.
 
 I write technical communications for internal, external, and developer audiences, at scale:
 - 🛡 Security and Privacy standards, notifications [https://safety.google/security-privacy/]
@@ -15,16 +15,17 @@ I'm passionate about:
 - 🧮 Data science
 - 🔐 Cryptography
 
-Samples of my work:
-- ⚡️ PowerPage [https://www.powerpage.org/]
+Some of my work:
+- 🖼️ [https://www.ogrady.ai/]
 - 💼 LinkedIn [https://linkedin.com/in/ogrady]
+- ⚡️ PowerPage [https://www.powerpage.org/]
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
 Contact me:
-- 🐦 [https://twitter.com/JasonOGrady]
+– 🔵 [ogrady.bsky.social]
 - 🐘 [https://mastodon.social/@jasonogrady]
-- 📸 [http://instagram.com/jasonogrady/]
-- 🖼️ [https://www.ogrady.ai/]
+- 🐦 [https://twitter.com/JasonOGrady]
+- 📸 [http://instagram.com/jasonogrady]
 - 📫 [mailto:jason@ogrady.ai]
 
 <!---
