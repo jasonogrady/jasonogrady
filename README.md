@@ -22,7 +22,8 @@ Some of my work:
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
 Contact me:
-– 🔵 [ogrady.bsky.social]
+
+– 🦋 [https://staging.bsky.app/profile/ogrady.ai]
 - 🐘 [https://mastodon.social/@jasonogrady]
 - 🐦 [https://twitter.com/JasonOGrady]
 - 📸 [http://instagram.com/jasonogrady]
