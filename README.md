@@ -22,12 +22,11 @@ Some of my work:
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
 Contact me:
-
-– 🦋 [https://staging.bsky.app/profile/ogrady.ai]
-- 🐘 [https://mastodon.social/@jasonogrady]
+- 📫 [mailto:jason@ogrady.ai]
+- 🦋 [https://staging.bsky.app/profile/ogrady.ai]
 - 🐦 [https://twitter.com/JasonOGrady]
 - 📸 [http://instagram.com/jasonogrady]
-- 📫 [mailto:jason@ogrady.ai]
+
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
