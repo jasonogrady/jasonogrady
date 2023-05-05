@@ -7,8 +7,7 @@ I write technical communications for internal, external, and developer audiences
 - 🪪 Identity and Access Management (IAM) [https://cloud.google.com/iam]
 - 📊 Google Analytics Developers [http://developer.google.com/analytics]
 - ✨ Google Optimize Developers [http://developer.google.com/optimize]
-- 📰 News: CBS Interactive/ZDNet [https://www.zdnet.com/blog/apple]
-- ⚡️ Editorial: PowerPage [https://www.powerpage.org/]
+
 
 I'm passionate about:
 - 🧠 AI, ML, & DL
@@ -16,10 +15,11 @@ I'm passionate about:
 - 🔐 Cryptography
 
 Some of my work:
-- 🖼️ My new website [https://ogrady.ai/]
+- 🖼️ New website [https://ogrady.ai/]
 - 💼 LinkedIn [https://linkedin.com/in/ogrady]
-- ⚡️ PowerPage [https://powerpage.org/]
-- ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
+- 📰 News: CBS Interactive/ZDNet [https://zdnet.com/blog/apple]
+- ⚡️ Editorial: PowerPage [https://powerpage.org/]
+- ✏️ Google Scholar [https://link.ogrady.ai/google-scholar]
 
 Contact me:
 - 📫 [mailto:jason@ogrady.ai]
