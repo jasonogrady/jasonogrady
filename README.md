@@ -16,9 +16,9 @@ I'm passionate about:
 - 🔐 Cryptography
 
 Some of my work:
-- 🖼️ [https://www.ogrady.ai/]
+- 🖼️ My new website [https://ogrady.ai/]
 - 💼 LinkedIn [https://linkedin.com/in/ogrady]
-- ⚡️ PowerPage [https://www.powerpage.org/]
+- ⚡️ PowerPage [https://powerpage.org/]
 - ✏️ Google Scholar [https://scholar.google.com/citations?hl=en&user=p70VB-4AAAAJ]
 
 Contact me:
@@ -26,7 +26,6 @@ Contact me:
 - 🦋 [https://staging.bsky.app/profile/ogrady.ai]
 - 🐦 [https://twitter.com/JasonOGrady]
 - 📸 [http://instagram.com/jasonogrady]
-
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
