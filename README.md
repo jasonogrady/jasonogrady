@@ -8,7 +8,6 @@ I write technical communications for internal, external, and developer audiences
 - 📊 Google Analytics Developers [http://developer.google.com/analytics]
 - ✨ Google Optimize Developers [http://developer.google.com/optimize]
 
-
 I'm passionate about:
 - 🧠 AI, ML, & DL
 - 🧮 Data science
@@ -24,7 +23,7 @@ Some of my work:
 Contact me:
 - 📫 [mailto:jason@ogrady.ai]
 - 🦋 [https://staging.bsky.app/profile/ogrady.ai]
-- 🐦 [https://twitter.com/JasonOGrady]
+- 🐦 [https://twitter.com/jasonogrady]
 - 📸 [http://instagram.com/jasonogrady]
 
 <!---
