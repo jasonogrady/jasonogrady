@@ -21,8 +21,8 @@ Some of my work:
 - ✏️ Google Scholar [https://link.ogrady.ai/google-scholar]
 
 Contact me:
-- 📫 [mailto:jason@ogrady.ai]
-- 🦋 [https://staging.bsky.app/profile/ogrady.ai]
+- 📫 [https://ogrady.ai/contact.html]
+- 🦋 [https://bsky.app/profile/ogrady.ai]
 - 🐦 [https://twitter.com/jasonogrady]
 - 📸 [http://instagram.com/jasonogrady]
 
