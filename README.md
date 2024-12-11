@@ -9,12 +9,13 @@ I write technical communications for internal, external, and developer audiences
 - ✨ Google Optimize Developers [http://developer.google.com/optimize]
 
 I'm passionate about:
-- 🧠 AI, ML, & DL
+- 🧠 LLMs, ML, DL, & AI
+- 🔐 Cybersecurity, Penetration testing, Incident management
 - 🧮 Data science
 - 🔐 Cryptography
 
 Some of my work:
-- 🖼️ New website [https://ogrady.ai/]
+- 🖼️ Website [https://ogrady.ai/]
 - 💼 LinkedIn [https://linkedin.com/in/ogrady]
 - 📰 News: CBS Interactive/ZDNet [https://zdnet.com/blog/apple]
 - ⚡️ Editorial: PowerPage [https://powerpage.org/]
@@ -23,8 +24,9 @@ Some of my work:
 Contact me:
 - 📫 [https://ogrady.ai/contact.html]
 - 🦋 [https://bsky.app/profile/ogrady.ai]
-- 🐦 [https://twitter.com/jasonogrady]
-- 📸 [http://instagram.com/jasonogrady]
+- ⛭ [https://github.com/jasonogrady]
+
+Updated: 2024-12-11
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
