@@ -16,6 +16,7 @@ I'm passionate about:
 
 Some of my work:
 - 🖼️ Website [https://ogrady.ai/]
+- 💼 Portfolio [https://ogrady.ai/portfolio/]
 - 💼 LinkedIn [https://linkedin.com/in/ogrady]
 - 📰 News: CBS Interactive/ZDNet [https://zdnet.com/blog/apple]
 - ⚡️ Editorial: PowerPage [https://powerpage.org/]
@@ -26,7 +27,7 @@ Contact me:
 - 🦋 [https://bsky.app/profile/ogrady.ai]
 - ⛭ [https://github.com/jasonogrady]
 
-Updated: 2024-12-11
+Updated: 2025-11-21
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
