@@ -2,9 +2,25 @@ Jason O’Grady 👋
 
 Senior Technical Writer • AI Systems Communicator • Developer Documentation
 
-I’m a Bay Area technical communicator working at the intersection of AI, developer platforms, and complex technical systems.
+I’m a Bay Area technical communicator working at the intersection of AI, developer platforms, and complex technical systems. I specialize in translating complicated engineering work into clear documentation, developer guides, and scalable communications for internal teams, external developers, and global product launches.
 
-I specialize in translating complicated engineering work into clear documentation, developer guides, and scalable communications for internal teams, external developers, and global product launches.
+## Featured
+
+🪙 Agent Payments Protocol (AP2)
+
+I wrote the launch materials for Google’s Agent Payments Protocol (AP2), an open protocol designed to enable secure, interoperable payments initiated by autonomous AI agents. AP2 provides the infrastructure for trusted agent-to-merchant transactions and helps power the emerging agent economy. Published September 16, 2025.
+
+Google Cloud announcement
+Powering AI commerce with the new Agent Payments Protocol
+https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+
+Official documentation
+Agent Payments Protocol – an open protocol for the emerging Agent Economy
+https://ap2-protocol.org/
+
+GitHub repository
+Building a Secure and Interoperable Future for AI-Driven Payments
+https://github.com/google-agentic-commerce/AP2
 
 ## Background
 
