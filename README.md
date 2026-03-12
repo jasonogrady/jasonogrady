@@ -6,6 +6,8 @@ I’m a Bay Area technical communicator working at the intersection of AI, devel
 
 I specialize in translating complicated engineering work into clear documentation, developer guides, and scalable communications for internal teams, external developers, and global product launches.
 
+## Background
+
 My background includes documentation and communications for platforms such as:
 
 • 🛡 Security & Privacy standards and user notifications - https://safety.google/security-privacy/
@@ -16,7 +18,7 @@ My background includes documentation and communications for platforms such as:
 
 • ✨ Google Optimize Developer Platform - https://developers.google.com/optimize
 
-Current Focus
+## Current Focus
 
 I’m actively expanding my work into AI systems documentation, developer tooling, and ML-powered platforms, including:
 
@@ -32,7 +34,7 @@ I’m actively expanding my work into AI systems documentation, developer toolin
 
 I enjoy building small tools, automation systems, and documentation frameworks that make complex systems easier to understand and operate.
 
-Selected Work
+## Selected Work
 
 •	🖼 Website - https://ogrady.ai/
 
@@ -46,7 +48,7 @@ Selected Work
 
 •	✏️ Publications / Research - https://link.ogrady.ai/google-scholar
 
-Connect
+## Connect with me
 
 •	📫 Contact - https://ogrady.ai/contact.html
 
