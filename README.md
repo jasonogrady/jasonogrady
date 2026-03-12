@@ -43,9 +43,9 @@ I enjoy building small tools, automation systems, and documentation frameworks t
 ## Selected Work
 
 •	🖼 Website - https://ogrady.ai/ \
-•	💼 Portfolio - https://ogrady.ai/portfolio/ \ 
+•	💼 Portfolio - https://ogrady.ai/portfolio/  \ 
 •	💼 LinkedIn - https://linkedin.com/in/ogrady \
-•	📰 Technology journalism - https://zdnet.com/blog/apple \ 
+•	📰 Technology journalism - https://zdnet.com/blog/apple  \ 
 •	⚡ Founder, PowerPage (est. 1995) - https://powerpage.org/ \
 •	✏️ Publications / Research - https://link.ogrady.ai/google-scholar
 
