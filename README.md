@@ -8,10 +8,13 @@ I specialize in translating complicated engineering work into clear documentatio
 
 My background includes documentation and communications for platforms such as:
 
-•	🛡 Security & Privacy standards and user notifications - https://safety.google/security-privacy/
-•	🪪 Identity and Access Management (IAM) - https://cloud.google.com/iam
-•	📊 Google Analytics Developer Platform - https://developers.google.com/analytics
-•	✨ Google Optimize Developer Platform - https://developers.google.com/optimize
+🛡 Security & Privacy standards and user notifications - https://safety.google/security-privacy/
+
+🪪 Identity and Access Management (IAM) - https://cloud.google.com/iam
+
+📊 Google Analytics Developer Platform - https://developers.google.com/analytics
+
+✨ Google Optimize Developer Platform - https://developers.google.com/optimize
 
 Current Focus
 
