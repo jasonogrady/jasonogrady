@@ -1,33 +1,55 @@
-Hi, I’m Jason O'Grady 👋 
+Jason O’Grady 👋
 
-I'm a senior technical writer based in the bay area.
+Senior Technical Writer • AI Systems Communicator • Developer Documentation
 
-I write technical communications for internal, external, and developer audiences, at scale:
-- 🛡 Security and Privacy standards, notifications [https://safety.google/security-privacy/]
-- 🪪 Identity and Access Management (IAM) [https://cloud.google.com/iam]
-- 📊 Google Analytics Developers [http://developer.google.com/analytics]
-- ✨ Google Optimize Developers [http://developer.google.com/optimize]
+I’m a Bay Area technical communicator working at the intersection of AI, developer platforms, and complex technical systems.
 
-I'm passionate about:
-- 🧠 LLMs, ML, DL, & AI
-- 🔐 Cybersecurity, Penetration testing, Incident management
-- 🧮 Data science
-- 🔐 Cryptography
+I specialize in translating complicated engineering work into clear documentation, developer guides, and scalable communications for internal teams, external developers, and global product launches.
 
-Some of my work:
-- 🖼️ Website [https://ogrady.ai/]
-- 💼 Portfolio [https://ogrady.ai/portfolio/]
-- 💼 LinkedIn [https://linkedin.com/in/ogrady]
-- 📰 News: CBS Interactive/ZDNet [https://zdnet.com/blog/apple]
-- ⚡️ Editorial: PowerPage [https://powerpage.org/]
-- ✏️ Google Scholar [https://link.ogrady.ai/google-scholar]
+My background includes documentation and communications for platforms such as:
+	•	🛡 Security & Privacy standards and user notifications
+https://safety.google/security-privacy/
+	•	🪪 Identity and Access Management (IAM)
+https://cloud.google.com/iam
+	•	📊 Google Analytics Developer Platform
+https://developers.google.com/analytics
+	•	✨ Google Optimize Developer Platform
+https://developers.google.com/optimize
 
-Contact me:
-- 📫 [https://ogrady.ai/contact.html]
-- 🦋 [https://bsky.app/profile/ogrady.ai]
-- ⛭ [https://github.com/jasonogrady]
+Current Focus
 
-Updated: 2025-11-21
+I’m actively expanding my work into AI systems documentation, developer tooling, and ML-powered platforms, including:
+	•	🧠 Large Language Models (LLMs) and AI systems
+	•	🤖 AI agents and automation workflows
+	•	🧮 Data science and ML pipelines
+	•	🔐 Security, cryptography, and trust infrastructure
+	•	🧑‍💻 Developer platforms and API ecosystems
+
+I enjoy building small tools, automation systems, and documentation frameworks that make complex systems easier to understand and operate.
+
+Selected Work
+	•	🖼 Website
+https://ogrady.ai/
+	•	💼 Portfolio
+https://ogrady.ai/portfolio/
+	•	💼 LinkedIn
+https://linkedin.com/in/ogrady
+	•	📰 Technology journalism
+https://zdnet.com/blog/apple
+	•	⚡ Founder, PowerPage (est. 1995)
+https://powerpage.org/
+	•	✏️ Publications / Research
+https://link.ogrady.ai/google-scholar
+
+Connect
+	•	📫 Contact
+https://ogrady.ai/contact.html
+	•	🦋 Bluesky
+https://bsky.app/profile/ogrady.ai
+	•	⛭ GitHub
+https://github.com/jasonogrady
+
+Updated: 2026-03
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
