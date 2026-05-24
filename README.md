@@ -1,64 +1,131 @@
 # Jason O’Grady 👋
 
-Senior Technical Writer • AI Systems Communicator • Developer Documentation
+## Technical Communicator for AI Systems, APIs, and Developer Infrastructure
 
-I’m a Bay Area technical communicator working at the intersection of AI, developer platforms, and complex technical systems. I specialize in translating complicated engineering work into clear documentation, developer guides, and scalable communications for internal teams, external developers, and global product launches.
+I’m a Bay Area technical communicator focused on AI systems, developer tooling, APIs, and complex technical infrastructure.
 
-## Featured
+For more than a decade at Google, I’ve worked with engineering, product, security, and research-adjacent teams to translate sophisticated systems into documentation, launch narratives, operational communications, and developer experiences that scale.
 
-### 🪙 Agent Payments Protocol (AP2)
+My recent work has centered on frontier AI workflows, agentic systems, developer platforms, and the emerging infrastructure around autonomous AI agents, trust, and interoperability.
 
-I wrote the launch materials for Google’s Agent Payments Protocol (AP2), an open protocol designed to enable secure, interoperable payments initiated by autonomous AI agents. AP2 provides the infrastructure for trusted agent-to-merchant transactions and helps power the emerging agent economy. Published September 16, 2025.
+I’m particularly interested in the intersection of:
+- 🧠 LLMs and agentic systems
+- 🤖 AI developer platforms and APIs
+- ⚙️ Human/AI collaboration workflows
+- 🔐 AI safety, reliability, and trust infrastructure
+- 🧑‍💻 Developer experience and technical communication at scale
 
-Google Cloud blog post:
-- Powering AI commerce with the new Agent Payments Protocol
-- https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
+---
 
-Official documentation:
-- Agent Payments Protocol – an open protocol for the emerging Agent Economy
-- https://ap2-protocol.org/
+# Featured Work
 
-GitHub repository:
-- Building a Secure and Interoperable Future for AI-Driven Payments
-- https://github.com/google-agentic-commerce/AP2
+## 🪙 Agent Payments Protocol (AP2)
 
-## Background
+I wrote the launch narrative, developer-facing materials, and public documentation for Google’s Agent Payments Protocol (AP2), an open protocol designed to enable secure, interoperable payments initiated by autonomous AI agents.
 
-My background includes documentation and communications for platforms such as:
+AP2 explores foundational infrastructure for trusted agent-to-merchant transactions and the emerging agent economy, including identity, trust, interoperability, and payment orchestration between AI systems and commercial services.
 
-- 🛡 Security & Privacy standards and user notifications - https://safety.google/security-privacy/
-- 🪪 Identity and Access Management (IAM) - https://cloud.google.com/iam
-- 📊 Google Analytics Developer Platform - https://developers.google.com/analytics
-- ✨ Google Optimize Developer Platform - https://developers.google.com/optimize
+Published September 16, 2025.
 
-## Current Focus
+### Launch blog
+- Powering AI commerce with the new Agent Payments Protocol  
+  https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol
 
-I’m actively expanding my work into AI systems documentation, developer tooling, and ML-powered platforms, including:
+### Official documentation
+- Agent Payments Protocol (AP2)  
+  https://ap2-protocol.org/
 
-- 🧠 Large Language Models (LLMs) and AI systems
-- 🤖 AI agents and automation workflows
+### GitHub repository
+- google-agentic-commerce/AP2  
+  https://github.com/google-agentic-commerce/AP2
+
+---
+
+# Background
+
+My background includes technical documentation, developer platforms, operational communications, and security-related systems across Google Cloud and Google Ads products, including:
+
+- 🛡 Security & Privacy standards and notifications  
+  https://safety.google/security-privacy/
+
+- 🪪 Identity and Access Management (IAM)  
+  https://cloud.google.com/iam
+
+- 📊 Google Analytics Developer Platform  
+  https://developers.google.com/analytics
+
+- ✨ Google Optimize Developer Platform  
+  https://developers.google.com/optimize
+
+Previously, I worked on high-severity security and incident communications at Google Cloud, coordinating urgent customer-facing communications during complex technical and security events.
+
+---
+
+# How I Work
+
+I’m most effective in highly cross-functional environments where engineering, research, product, policy, security, and developer experience intersect.
+
+My approach combines:
+- Systems-level thinking
+- Deep technical curiosity
+- Clear developer communication
+- Operational rigor under ambiguity
+- Rapid iteration with AI-native tooling
+
+I regularly work with AI-assisted workflows for research, coding, structured authoring, analysis, prototyping, and content generation, and I’m particularly interested in how human/AI collaboration is reshaping software development and technical communication.
+
+---
+
+# Current Focus
+
+I’m actively expanding my work into:
+
+- 🧠 Large Language Models (LLMs)
+- 🤖 AI agents and autonomous workflows
 - 🧮 Data science and ML pipelines
-- 🔐 Security, cryptography, and trust infrastructure
-- 🧑‍💻 Developer platforms and API ecosystems
+- 🔐 Security, cryptography, and trust systems
+- ⚡ AI-native developer tooling
+- 🧑‍💻 APIs, SDKs, and developer ecosystems
 
-I enjoy building small tools, automation systems, and documentation frameworks that make complex systems easier to understand and operate.
+Outside of work I build small automation tools, AI workflows, homelab systems, and publishing infrastructure, and remain deeply interested in the evolution of developer tooling and AI-assisted software creation.
 
-## Selected Work
+---
 
-- 🖼 Website — https://ogrady.ai/
-- 💼 Portfolio — https://ogrady.ai/portfolio/
-- 💼 LinkedIn — https://linkedin.com/in/ogrady
-- 📰 Technology journalism — https://zdnet.com/blog/apple
-- ⚡ Founder, PowerPage (est. 1995) — https://powerpage.org/
-- ✏️ Publications / Research — https://link.ogrady.ai/google-scholar
+# Selected Work
 
-## Connect with me
+- 🖼 Website  
+  https://ogrady.ai/
 
-- 📫 Contact - https://ogrady.ai/contact.html
-- 🦋 Bluesky - https://bsky.app/profile/ogrady.ai
-- ⛭ GitHub - https://github.com/jasonogrady
+- 💼 Portfolio  
+  https://ogrady.ai/portfolio/
 
-Updated: 2026-03
+- 💼 LinkedIn  
+  https://linkedin.com/in/ogrady
+
+- 📰 Technology journalism  
+  https://zdnet.com/blog/apple
+
+- ⚡ Founder, PowerPage (est. 1995)  
+  https://powerpage.org/
+
+- ✏️ Publications / Research  
+  https://link.ogrady.ai/google-scholar
+
+---
+
+# Connect with me
+
+- 📫 Contact  
+  https://ogrady.ai/contact.html
+
+- 🦋 Bluesky  
+  https://bsky.app/profile/ogrady.ai
+
+---
+
+*Publishing online continuously since 1995.*
+
+Updated: 2026-05-24
 
 <!---
 jasonogrady/jasonogrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
